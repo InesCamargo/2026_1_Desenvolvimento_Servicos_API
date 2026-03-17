@@ -17,4 +17,7 @@ function limpar(){
 ${"#divJquery"}.css("background", "#00f")
 ${"#divJquery"}.css("color", "#fff")
 ${"#divJquery"}.text("Oi Pessoal <hr>")
-$("#botao").on()("click", function(){})
+$("#botao").on()("click", function(){
+    $
+})
+
